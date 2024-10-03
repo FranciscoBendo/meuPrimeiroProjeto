@@ -1,1 +1,1 @@
-adiciona um READMEmudado 
+detalhes específicos de um projeto
